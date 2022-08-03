@@ -2,13 +2,13 @@
 
 ## I'm a IT student, Competitive Programmer!
 
-- 🌱 I’m currently learning about **Competitive Programming** and **DSA**
+- 🌱 I’m currently learning about **Competitive Programming**, **DSA** and **Django**
 
-<!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
+- 👯 I’m looking to collaborate on **Any Projects as per my skillset**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nmastepankaj/](https://github.com/nmastepankaj/)
 
-<!-- - 📝 I Have my portfolio at [https://nmastepankaj.netlify.app/](https://nmastepankaj.netlify.app/) -->
+- 📝 I Have my portfolio at [https://nmastepankaj.netlify.app/](https://nmastepankaj.netlify.app/)
 
 - 💬 Ask me about **C/C++, DSA, Competitive Programming**
 
