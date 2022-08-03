@@ -55,13 +55,13 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/>
 	</a>
 	<a href="https://django.com" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/dartlang/django-icon.svg" alt="dart" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/django/django-icon.svg" alt="Django" width="40" height="40"/>
 	</a>
 	<a href="https://php.net/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/firebase/php-icon.svg" alt="firebase" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
 	</a>
 	<a href="https://aws.amazon.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/flutterio/aws-icon.svg" alt="flutter" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="AWS" width="40" height="40"/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
