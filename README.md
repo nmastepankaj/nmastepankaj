@@ -55,7 +55,7 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/>
 	</a>
 	<a href="https://django.com" target="_blank">
-		<img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" alt="Django" width="40" height="40"/>
+		<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" width="40" height="40"/>
 	</a>
 	<a href="https://php.net/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
